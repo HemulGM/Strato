@@ -1,3 +1,12 @@
 [submodule "FMXAudio"]
 	path = FMXAudio
 	url = https://github.com/HemulGM/FMXAudio
+[submodule "MARS"]
+	path = MARS
+	url = https://github.com/andrea-magni/MARS
+[submodule "GoogleAPIs"]
+	path = GoogleAPIs
+	url = https://github.com/HemulGM/GoogleAPIs
+[submodule "AsyncObjectHolder"]
+	path = AsyncObjectHolder
+	url = https://github.com/HemulGM/AsyncObjectHolder
